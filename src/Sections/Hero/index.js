@@ -191,7 +191,7 @@ const HeroSection = () => {
         <Lb id="leftBlock">
           <Topic>
             <Circle />
-            <span>We Build Web</span>
+            <span>Welcome</span>
           </Topic>
           <Title>Exploring the World of Digital Signage</Title>
           <SubText>Brighten Up Your Brand with LED Digital Signage</SubText>
