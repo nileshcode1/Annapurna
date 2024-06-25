@@ -103,7 +103,7 @@ const Testimonials = () => {
 
           <Card
             text="The team at Annapurna & Sons was fantastic to work with. They understood our vision and delivered a solution. Our brand visibility has never been better!"
-            name="R.L Mehta (Axis Bank)"
+            name="R.L Mehta (PNB Bank)"
             image="avatar-4"
           />
         </Slider>

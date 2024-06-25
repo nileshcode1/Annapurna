@@ -46,14 +46,9 @@ const LeftText = styled.div`
 const Footer = () => {
   return (
     <FOOTER>
-      <LeftText>
-        © 2024 Built and Design by{" "}
-        <a href="">
-          @Annapurna & Sons
-        </a>
-      </LeftText>
+      <LeftText>© 2024 || Annapurna & Sons || All Rights Reserved</LeftText>
       <RightText>
-        Reach out to me via 
+        Reach out to me via
         <a href="">
           <img src={Twitter} alt="Twitter" />
         </a>
@@ -71,5 +66,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-
